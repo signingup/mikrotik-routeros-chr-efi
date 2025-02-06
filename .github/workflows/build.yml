@@ -23,7 +23,7 @@ jobs:
       matrix:
         version:
           # - 6.49.10
-          - 7.16.2
+          - 7.17.1
 
     steps:
       - name: Checkout
